@@ -20,15 +20,15 @@ print("python choose"+computerchoice+".")
 print("")
 
 if player==1| computer==3:
-    print("you win")
+    print("you win 🥳")
 elif player==2 | computer==1:
-    print("you win")
+    print("you win 🥳")
 elif player==3 and computer==2:
-    print("you win")
+    print("you win 🥳")
 elif computer==player:
-    print("tie")
+    print("tie 😲")
 else:
-    print("python win")
+    print("python win 🐍")
 
 
 
